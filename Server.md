@@ -103,3 +103,6 @@ Edit
 top -bn1 | head -10
 Customization
 You can modify the script to monitor additional resources such as network usage, disk I/O, or load average by updating the respective command sections. You can also modify the alert thresholds for CPU usage, memory usage, and disk usage to trigger notifications.
+
+
+Project Page URL :- https://roadmap.sh/projects/server-stats
